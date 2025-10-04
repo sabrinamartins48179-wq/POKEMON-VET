@@ -1,4 +1,4 @@
-Neste projeto foi criado um HTML seguindo uma estrutura e usando tags básicas para o desenvolvimento do "Projeto Padaria". Aqui a ideia foi usar referências bem diretas a obra "Naruto" de Masashi Kishimoto.
+Neste projeto foi criado um HTML seguindo uma estrutura e usando tags básicas para o desenvolvimento do "Projeto Padaria". Aqui a ideia foi usar referências bem diretas a obra "Naruto" de Masashi Kishimoto. E para fins de organização, a pasta imahens que guarda os arquivos que foram usados para a criação.
 
 Após usar SHIFT + ! para a criação de um modelo padrão de estrutura, a primeira modificação a ser notada foi a adição do conjunto que formou o elemento "<meta name="keywords" content=" como um recurso SEO, visando fortalecer o motores de busca.
 
